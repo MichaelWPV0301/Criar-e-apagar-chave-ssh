@@ -1,5 +1,5 @@
 KEY_NAME = id_ed25519
-EMAIL = michael.vieira@icomp.ufam.edu.br
+EMAIL = email@endereco
 
 # Regra padrão (opcional)
 all:
